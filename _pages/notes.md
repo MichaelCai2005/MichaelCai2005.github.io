@@ -20,7 +20,7 @@ Below are lecture notes for courses I have taken. As I was just introduced to la
 
 ### Introduction to Numerical Methods (APMA 4300)
 
-- **Files:** [PDF](/assets/pdf/COMSW%204281.pdf)
+- **Files:** [PDF](/assets/pdf/COMSW%204281.pdf.pdf) [TeX Source (GitHub)](https://github.com/MichaelCai2005/APMA4300-Notes/blob/main/APMA4300.pdf)
 - **Description:** Notes taken (live) from CU's COMSW 4281. The course is a topics introductory course on Quantum Computing, and uses Henry Yuen's _Lecture Slides on Quantum Computing_ as the primary reference.
 - **Topics Covered:** The fundamental postulates of quantum information theory, Entanglement and nonlocality, The quantum circuit model, Basic quantum protocols such as quantum teleportation and superdense coding, Basic quantum algorithms such as Simon’s algorithm, the Quantum Fourier Transform, Phase Estimation, Shor’s Factoring algorithm, Grover search, amplitude amplification, Quantum error correction and fault-tolerance, Quantum cryptography, quantum advantage/quantum supremacy, quantum complexity theory
 - **Pre-requisites:** Linear algebra, Quantum mechanics/information, and Analysis of algorithms

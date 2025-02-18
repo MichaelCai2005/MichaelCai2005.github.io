@@ -8,7 +8,6 @@ nav: false
 
 Below are lecture notes for courses I have taken. As I was just introduced to latex during my freshman year, some of the notes from freshman year are incomplete/done poorly. Note that I have taken this template from Ryo Weil as part of the al-folio Jekyll template:
 
-
 ## Columbia University
 
 ### Quantum Optimization and Machine Learning (ELEN 4730)

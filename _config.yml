@@ -147,6 +147,12 @@ exclude:
   - vendor
   - _news/
   - _posts/
+  - _bibliography
+  - _pages/publications.md
+  - _pages/repositories.md
+  - _pages/cv.md
+  - _pages/teaching.md
+  - _includes/repository/
 keep_files:
   - CNAME
   - .nojekyll

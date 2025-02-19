@@ -1,15 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Columbia University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>123 116th and Broadway </p>
+    <p>116th and Broadway </p>
     <p>New York, NY 10027</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

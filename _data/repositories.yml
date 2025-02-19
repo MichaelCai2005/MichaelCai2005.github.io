@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - MichaelCai2005
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - KshitijTeotia06/frontendTreeHacks
+  - Rohan-T144/2025-Quantinuum
+  - Samuel-O-M/YHack-2024
+  - Lion-Q/finance-qbraid

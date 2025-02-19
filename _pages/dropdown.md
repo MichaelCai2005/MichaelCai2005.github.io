@@ -6,7 +6,7 @@ nav_order: 8
 dropdown: true
 children:
   - title: Hackathons
-    permalink: /repositories/
+    permalink: /hackathons/
   - title: divider
   - title: Course Projects
     permalink: /course_projects

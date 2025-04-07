@@ -13,7 +13,7 @@ nav: false
 
 ## Intermediate Physics Lab (PHYS 3081)
 
-- **Files:** [Report 1](/assets/pdf/course_projects/PHYS3081_Lab_Report_1.pdf)
+- **Files:** [Report](/assets/pdf/course_projects/PHYS3081_Lab_Report_1.pdf)
 - **Description:** This experiment aimed to measure and compare the decay times and light yields of three scintillating crystals: BGO, CsI(Tl), and LYSO(Ce). Using a Cs-137 source to excite the crystals, the emitted photons were detected by a Silicon Photomultiplier (SiPM), and the signals were digitized using an ADC unit. We calculated the average waveform and light yield for each crystal. The measured decay times were 67.75 ns for LYSO(Ce), 307.32 ns for BGO, and 935.14 ns for CsI(Tl). These results were compared with accepted values of 40 ns for LYSO(Ce), 300 ns for BGO, and 1000 ns for CsI(Tl), showing de- viations of approximately 69.38%, 2.44%, and 6.48%, respectively [1]. Experimental limitations, such as equipment constraints and signal processing methods, likely contributed to the discrepancies observed. Improved alignment and analysis techniques led to more accurate mea- surements compared to initial results.
 
 - **Files:** [Report](</assets/pdf/course_projects/PHYS3081_Lab_Report_2%20(1).pdf>)

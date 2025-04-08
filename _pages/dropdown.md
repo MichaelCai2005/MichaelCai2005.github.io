@@ -11,7 +11,7 @@ children:
   - title: Course Projects
     permalink: /course_projects
   - title: divider
-  - title: Lab Projects
-    permalink: /lab_projects
+  - title: Other Projects
+    permalink: /other_projects
   - title: divider
 ---

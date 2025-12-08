@@ -8,7 +8,7 @@ nav: false
 
 ## ASTROID: Adhesive Stamping Technology for Regolith Orientation Integrity Delineation
 
-- **Files:** [Proposal](</assets/pdf/other_projects/2025 ASTROID Proposal.pdf>)
+- **Files:** [Proposal](</assets/pdf/other_projects/2025 ASTROID Proposal.pdf>)[Report](</assets/pdf/other_projects/2025 Final Report.pdf>)
 - **Role:** Columbia Space Initiative – Micro-G Team Lead (2024–2025)
 - **Abstract:**  
   During the exploration of the Moon’s south pole, it is paramount that the collection of regolith is reliable, ergonomic, and accurate under extreme conditions. The ASTROID system addresses the challenge of preserving the grain orientation of regolith by implementing a stamping mechanism that collects the top 1–5 mm of lunar soil. Designed with an EVA glove-friendly handle and a self-inking stamp mechanism, the system uses a lab-developed cured gel that, upon dissolving with heptane, becomes a flexible and adherent substance. This approach not only ensures safe sample collection for storage on Earth and in space, but also provides critical data to advance our understanding of the lunar surface.
